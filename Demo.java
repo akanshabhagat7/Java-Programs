@@ -1,11 +1,10 @@
-import java.lang.*;
+package PPA.LB;
 
-class Demo
+
+public class Demo
 {
-	public static void main(String arg[])
+	public void sun()
 	{
-		System.out.println("Jay Ganesh...");
+		System.out.println("Inside Demo sun");
 	}
-     
 }
-
